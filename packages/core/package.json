@@ -1,0 +1,16 @@
+{
+  "name": "@cooperate/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "openapi": "npx esmo src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "esno": "^0.14.1",
+    "ts-toolbelt": "^9.6.0"
+  }
+}
